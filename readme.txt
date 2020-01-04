@@ -26,6 +26,8 @@ Please check your own url to test.
 [Run]
 python detect.py detect_method
 
-supported detect_method:
-
+supported detect_method
+cv -- traditional machine vision method
+yolov3-tiny -- yolo v3 tiny based object detection method
+yolov3      -- yolo v3 based object detection method
 
